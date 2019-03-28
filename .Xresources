@@ -1,0 +1,7 @@
+rofi.dpi: 220
+rofi.location: 2
+rofi.width: 100
+rofi.length:100
+rofi.fullscreen: true
+rofi.lines: 7
+rofi.font: San Francisco Display 15
